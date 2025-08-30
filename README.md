@@ -1,18 +1,59 @@
-Hi 👋, I'm Jerry</h1>
+# Hi, I'm Jerry 👋  
 
-A passionate Cloud Security Engineering from United States</h3>
+🚀 **Cybersecurity & Cloud Security Professional | Risk Management | Compliance | Systems Security**  
 
-🔭 I’m currently learning Cloud Security  (AWS/Azure)
+I’m a seasoned cybersecurity professional with **11+ years of experience** in securing enterprise systems, cloud environments (AWS, Azure), and aligning organizations with **FISMA, FedRAMP, ISO 27001, HIPAA, and NIST 800-53** standards.  
 
-- 🔭 I’m currently working on my Degree in Cybersecurity & Information Assurance
+With a strong foundation in **risk management, compliance, incident response, and systems security engineering**, I help organizations **reduce vulnerabilities, strengthen cyber resilience, and achieve regulatory compliance**.  
 
-- 👯 I’m looking to collaborate on **Security Engineering tools**
-- Ask about eMASS, POA&Ms, Nessus, RMF
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jerrymensah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerrymensah/" height="30" width="40" /></a>
+## 🔑 Core Competencies
+- **Cybersecurity & Risk Management:** RMF, eMASS, ACAS, Vulnerability Management, Incident Response  
+- **Cloud Security:** AWS, Azure (Identity, Networking, Security Services, Governance)  
+- **Compliance & Governance:** FISMA, FedRAMP, ISO 27001/27017/27018/27701, HIPAA, SOX  
+- **Systems & Network Administration:** Windows/Linux, Active Directory, Virtualization, Network Security  
+- **Project & Program Leadership:** PMP, ITIL, Cybersecurity Awareness Training, Cross-functional Team Leadership  
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+## 📜 Certifications
+- **CC** - Certified In Cybersecurity
+- **CISA** – Certified Information Systems Auditor  
+- **CRISC** – Certified in Risk and Information Systems Control  
+- **PMP / CAPM** – Project Management Professional / Associate  
+- **Azure Fundamentals**  
+- **IAT Level III Certification**  
+- *(In Progress)* **SSCP, CCSP, AWS Security Specialty**  
+
+---
+
+## 📂 Featured Work
+🔹 **Risk Management Framework (RMF) & eMASS Automation** – streamlined security authorization package workflows to cut compliance timelines.  
+🔹 **Cloud Security Compliance Playbook** – developed governance policies for AWS/Azure environments aligned with FedRAMP High.  
+🔹 **SIEM Optimization Project** – reduced false positives by 95% and improved MTTR (Mean Time to Resolution) by 40%.  
+
+*(More projects will be added here — stay tuned!)*  
+
+---
+
+## 📈 Currently Learning
+- Advanced **Cloud Security Architecture (AWS + Azure)**  
+- **Zero Trust Security** frameworks  
+- **Python for Cybersecurity Automation**  
+
+---
+
+## 🤝 Let’s Connect
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jerrymensah/))  
+- 📧 Email: *your email here*  
+- 🌐 Portfolio: *your portfolio link here (if available)*  
+
+---
+
+### ⚡ Fun Fact  
+When I’m not securing systems, you’ll probably find me mentoring aspiring cybersecurity professionals or diving into the latest cloud security trends.  
+
+---
+
+⭐️ *"Building secure, compliant, and resilient systems — one layer at a time."*  
