@@ -7,6 +7,7 @@ A passionate Cloud Security Engineering from United States</h3>
 - 🔭 I’m currently working on my Degree in Cybersecurity & Information Assurance
 
 - 👯 I’m looking to collaborate on **Security Engineering tools**
+- Ask about eMASS, POA&Ms, Nessus, RMF
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
