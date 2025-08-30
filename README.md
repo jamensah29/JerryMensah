@@ -1,8 +1,8 @@
 # Hi, I'm Jerry 👋  
 
-🚀 **Cybersecurity & Cloud Security Professional | Risk Management | Compliance | Systems Security**  
+🚀 **Cybersecurity & Cloud Security Specialist | Risk Management | Compliance | Systems Protection**  
 
-I’m a seasoned cybersecurity professional with **11+ years of experience** in securing enterprise systems, cloud environments (AWS, Azure), and aligning organizations with **FISMA, FedRAMP, ISO 27001, HIPAA, and NIST 800-53** standards.  
+I’m a seasoned cybersecurity professional with **10+ years of experience** in securing enterprise systems, cloud environments (AWS, Azure), and aligning organizations with **FISMA, FedRAMP, ISO 27001, HIPAA, and NIST 800-53** standards.  
 
 With a strong foundation in **risk management, compliance, incident response, and systems security engineering**, I help organizations **reduce vulnerabilities, strengthen cyber resilience, and achieve regulatory compliance**.  
 
