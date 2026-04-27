@@ -46,7 +46,8 @@ With a strong foundation in **risk management, compliance, incident response, an
 
 ## 🤝 Let’s Connect
 - 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jerrymensah/))  
-- 📧 Email: *your email here*  
+- 📧 Email: mensahjerry2008@gmail.com
+- phone: 915-209-2376 
 - 🌐 Portfolio: *your portfolio link here (if available)*  
 
 ---
