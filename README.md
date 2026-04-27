@@ -1,8 +1,7 @@
 # Hi, I'm Jerry 👋  
+🚀Cybersecurity Student → Aspiring ISSO | CRISC - CISA - CySA+ - Security+ - SecurityX - CC - ITIL - LPIC - PMP | FISMA - RMF - NIST Frameworks | LSSYB | OSHA-10 | Open to Opportunities | Army Veteran  
 
-🚀 Cybersecurity Student → Aspiring ISSO | CRISC - CISA - CySA+ - Security+ - SecurityX - CC - ITIL - LPIC - PMP | FISMA - RMF - NIST Frameworks | LSSYB | OSHA-10 | Open to Opportunities | Army Veteran  
-
-Cybersecurity student and Army Veteran pursuing a career as an Information Systems Security Officer (ISSO), with a focus on FISMA, RMF, and NIST frameworks. Strong foundation in Governance, Risk, and Compliance (GRC), including risk management, access control, and security control implementation.
+Welcome to My GitHub! I am a Cybersecurity student and Army Veteran pursuing a career as an Information Systems Security Officer (ISSO), with a focus on FISMA, RMF, and NIST frameworks. Strong foundation in Governance, Risk, and Compliance (GRC), including risk management, access control, and security control implementation.
 Certifications include CRISC, CISA, CySA+, Security+, SecurityX, CC, ITIL, LPIC, and PMP. Experienced with continuous monitoring, ATO support, and tools like Azure Sentinel. Actively seeking ISSO or GRC opportunities to support compliance, reduce risk, and strengthen organizational security posture.
 
 With a strong foundation in **risk management, compliance, incident response, and systems security engineering**, I help organizations **reduce vulnerabilities, strengthen cyber resilience, and achieve regulatory compliance**.  
