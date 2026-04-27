@@ -24,7 +24,9 @@ With a strong foundation in **risk management, compliance, incident response, an
 - **CRISC** – Certified in Risk and Information Systems Control  
 - **PMP / CAPM** – Project Management Professional / Associate  
 - **Azure Fundamentals**  
-- **IAT Level III Certification**  
+- **IAT Level III Certification**
+- Security+
+- SecurityX (CASP+)
 - *(In Progress)* **SSCP, CCSP, AWS Security Specialty**  
 
 ---
