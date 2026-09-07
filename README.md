@@ -1,5 +1,5 @@
 # Hi, I'm Jerry 👋
-Cybersecurity Student | Aspiring ISSO | Army Veteran
+Information Systems Security Officer |Cybersecurity & Information Assurance Analyst | Army Veteran
 
 CRISC | CISA | CySA+ | Security+ | SecurityX | CC | ITIL | LPIC | PMP
 FISMA | RMF | NIST Frameworks | GRC | LSSYB | OSHA-10
