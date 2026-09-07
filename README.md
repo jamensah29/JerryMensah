@@ -1,10 +1,25 @@
 # Hi, I'm Jerry 👋
-Cybersecurity Student → Aspiring ISSO | CRISC - CISA - CySA+ - Security+ - SecurityX - CC - ITIL - LPIC - PMP | FISMA - RMF - NIST Frameworks | LSSYB | OSHA-10 | Open to Opportunities | Army Veteran 
+Cybersecurity Student | Aspiring ISSO | Army Veteran
 
-Welcome to My GitHub! I am a Cybersecurity student and Army Veteran pursuing a career as an Information Systems Security Officer (ISSO), with a focus on FISMA, RMF, and NIST frameworks. Strong foundation in Governance, Risk, and Compliance (GRC), including risk management, access control, and security control implementation.
-Certifications include CRISC, CISA, CySA+, Security+, SecurityX, CC, ITIL, LPIC, and PMP. Experienced with continuous monitoring, ATO support, and tools like Azure Sentinel. Actively seeking ISSO or GRC opportunities to support compliance, reduce risk, and strengthen organizational security posture.
+CRISC | CISA | CySA+ | Security+ | SecurityX | CC | ITIL | LPIC | PMP
+FISMA | RMF | NIST Frameworks | GRC | LSSYB | OSHA-10
 
-With a strong foundation in **risk management, compliance, incident response, and systems security engineering**, I help organizations **reduce vulnerabilities, strengthen cyber resilience, and achieve regulatory compliance,NIST compliance management**.  
+Welcome to my GitHub!
+
+I am a cybersecurity student and U.S. Army Veteran pursuing opportunities as an Information Systems Security Officer (ISSO) or GRC professional. My background includes information assurance, risk management, regulatory compliance, access control, incident response, and security control implementation.
+
+I have experience supporting:
+
+FISMA and the RMF lifecycle
+NIST frameworks and compliance management
+Security authorization and ATO activities
+Continuous monitoring and vulnerability remediation
+Governance, Risk, and Compliance programs
+Security operations using tools such as Microsoft Sentinel
+
+I focus on translating cybersecurity requirements into practical solutions that reduce vulnerabilities, strengthen cyber resilience, support regulatory compliance, and improve an organization’s overall security posture.
+
+Currently open to ISSO, Information Assurance, RMF, and GRC opportunities where I can support mission assurance and responsible risk management.
 
 ---
 
